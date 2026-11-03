@@ -72,6 +72,10 @@ The system displays real-time temperature readings on the LCD and indicates the 
 - Temperature alerts and data logging
 - Mobile notifications
 
+## ✅ Conclusion
+
+This project provides a simple and cost-effective solution for real-time temperature monitoring using Arduino UNO, with LCD display and LED-based temperature indication. It can be further enhanced with automatic ventilation and IoT integration.
+
 ## 👩‍💻 Author
 
 **Suhasini**
