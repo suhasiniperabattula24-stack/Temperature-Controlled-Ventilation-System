@@ -24,9 +24,10 @@ To develop a temperature monitoring system that measures ambient temperature, di
 - Red LED
 - Resistors
 - Breadboard and jumper wires
+
 ## ⚙️ System Architecture
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b1c57a6-5034-40fa-9617-01bf6b27694b" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/44cdbcb1-5e0c-4fdd-9bd5-c3e90d554578" />
 
 ## ⚙️ Working Principle
 
